@@ -1,4 +1,4 @@
-/*  
+/*   COPYRIGHT BY @SUMIT GOLE
 You are given a number N. You need to find the perfect square that is nearest to it. If two perfect squares are at the same distance to N, then print the greater perfect square.
 
 Input:
