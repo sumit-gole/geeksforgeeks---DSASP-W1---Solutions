@@ -31,7 +31,6 @@ Testcase3: 81 and 121 are near to 100. 81 is nearest.
 
 import java.io.*;
 import java.util.*;
-
 class GFG {
 	public static void main (String[] args) {
 	    
